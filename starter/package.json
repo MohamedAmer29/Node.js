@@ -1,0 +1,12 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "How Node Works behind the scene",
+  "license": "ISC",
+  "author": "Amer",
+  "type": "commonjs",
+  "main": "event-loop.js",
+  "scripts": {
+    "start": "nodemon modules.js"
+  }
+}
